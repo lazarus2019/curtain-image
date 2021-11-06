@@ -1,6 +1,9 @@
 # &#11088; Project content
 <p>We'll be building a curtain image without javascript library</p>
-<p>Watch entire video here: <a href="https://youtu.be/fMeKUKa_yE0">https://youtu.be/fMeKUKa_yE0</a></p>
+<p>View the tutorial here: <a href="https://youtu.be/fMeKUKa_yE0">https://youtu.be/fMeKUKa_yE0</a></p>
+
+![Curtain Image Without JS Library](https://user-images.githubusercontent.com/62226062/140596869-4b092ad4-1d6f-4c8e-b1e6-6bab509c10eb.png)
+
 
 # &#128161; Documents and Links I used in this project
 
